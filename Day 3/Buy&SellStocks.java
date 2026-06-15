@@ -1,4 +1,4 @@
-class Solution {
+class BuySellStocks {
     public int maxProfit(int[] prices) {
 
         int minPrice = Integer.MAX_VALUE;
